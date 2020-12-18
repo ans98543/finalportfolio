@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6ce9533-91a2-4bc2-9128-d307a7d8a21a" name="Default Changelist" comment="" />
+    <list default="true" id="b6ce9533-91a2-4bc2-9128-d307a7d8a21a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lnbJdyLjaAQjCaNfrfZE2FkMV4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +47,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ahmad\Webstorm\finalportfolio\docs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ahmad\Webstorm\finalportfolio\docs" />
     </key>
@@ -54,7 +65,7 @@
       <workItem from="1608235732969" duration="254000" />
       <workItem from="1608236005630" duration="45000" />
       <workItem from="1608236112889" duration="9198000" />
-      <workItem from="1608253393952" duration="443000" />
+      <workItem from="1608253393952" duration="14265000" />
     </task>
     <servers />
   </component>
@@ -74,5 +85,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608235981736" />
+    <state x="554" y="262" key="Github.ShareDialog" timestamp="1608254160559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="554" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1608254160559" />
+    <state x="498" y="69" key="Github.UntrackedFilesDialog" timestamp="1608254171421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1608254171421" />
   </component>
 </project>
